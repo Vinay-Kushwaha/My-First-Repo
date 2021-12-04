@@ -1,4 +1,5 @@
 # Practice Problems from MySQL
+Here you can find practice problems for MySQL and Postgres-SQL
 
 ### [Problem 1 Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true)
   #### Sol
